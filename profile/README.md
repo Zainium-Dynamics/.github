@@ -1,6 +1,8 @@
 # A deterministic, musl-native operating system
 
-![Zainium OS](https://raw.githubusercontent.com/Zainium-Dynamics/.github/main/profile/zainium-os.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zainium-Dynamics/.github/main/profile/zainium-os.png" alt="Zainium OS">
+</p>
 
 Zainium Dynamics builds ZainiumOS, an independent Linux operating system made from scratch on musl libc and not derived from any other distribution. The base system and the software you install live in separate layers under `/overlayer` and are joined at boot with OverlayFS, so nothing you install can change the base. Around it we make the tools the system runs on, such as the initramfs quantra-ramfs, sys_resolver for programs that expect the usual Linux paths, and the package recipes in syshub-recipes, userland-recipes and cosmic-zainium.
 
