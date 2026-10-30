@@ -43,7 +43,7 @@ Repositories
 ------------
 
     ZainiumOS                 the system's documentation and layout
-    linux_patches             the kernel, its modules and headers
+    kernel-recipes            the kernel, its modules and headers
     quantra_ramfs             the initramfs: joins the layers, applies upgrades
     zainium_installer         the installer
     syshub-recipes            recipes for the base
