@@ -64,3 +64,8 @@ Links
     X          https://x.com/zainiumdynamics
 
 Zainium OS is free software under the GPL-3.0. Created by Ali Zain.
+
+Zainium Dynamics is a community member of the Open Invention Network, the
+patent non-aggression community around Linux and open source.
+
+<a href="https://openinventionnetwork.com"><img src="https://raw.githubusercontent.com/Zainium-Dynamics/.github/main/profile/oin-community-member.png" alt="Open Invention Network 2.0 community member" width="220"></a>
